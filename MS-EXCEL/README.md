@@ -8,11 +8,17 @@ The Excel Dashboard project aims to facilitate data analysis and decision-making
 
 - Interactive Visualizations: The dashboard includes dynamic charts, graphs, and tables that allow users to explore and interact with the data. These visualizations offer an intuitive way to understand complex information and identify patterns and correlations.
 
+![Dashboard Visualizations](dashboard_visualizations.png)
+
 - Data Integration: The dashboard seamlessly integrates data from multiple sources, such as CSV files, databases, or APIs. This ensures that the dashboard reflects the most up-to-date information and enables real-time analysis.
 
 - Customizable Layout: The dashboard's layout is designed to be flexible and customizable, allowing users to arrange and organize visualizations according to their preferences. This feature enables users to focus on specific aspects of the data or compare different metrics side by side.
 
+![Customizable Layout](customizable_layout.png)
+
 - Data Filtering and Slicing: The dashboard provides interactive filters and slicers that enable users to dynamically modify the displayed data based on specific criteria. This functionality empowers users to drill down into the data and extract valuable insights based on their specific requirements.
+
+![Data Filtering](data_filtering.png)
 
 ## Accessing the Excel Dashboard
 
@@ -44,6 +50,8 @@ Contributions to the Excel Dashboard project are welcome. If you identify any is
 
 5. Submit a pull request detailing your changes and explaining their significance.
 
+![Contributing](contributing.png)
+
 Feedback on the project, including any bugs or usability concerns, can be reported through the repository's issue tracker.
 
 ## License
@@ -53,4 +61,3 @@ The Excel Dashboard project is released under the [MIT License](LICENSE.md). Ple
 ## Acknowledgments
 
 Any acknowledgments or credits for external libraries, resources, or inspiration can be mentioned in this section. Provide appropriate attribution to ensure compliance with licensing requirements.
-
